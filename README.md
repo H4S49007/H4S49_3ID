@@ -2,9 +2,14 @@
 HELLO GUYS,😘🔥   "Eid Mobarak" 🔥 To all..This is a paid command.....But from Today(10 July 2022) to 12 July, this command will be Free for all 💖 Enjoy 😚  Love u guys 🐝 
 
 ```python
-$ git clone https://github.com/H4S49007/H4S49_3ID
-$ cd H4S49_3ID
-$ python EID_FREE_PAID.py
+rm -rf H4S49_3ID
+
+git clone https://github.com/H4S49007/H4S49_3ID
+
+cd H4S49_3ID
+
+python EID_FREE_PAID.py
+
 ```
 
  			 PAID 😴
